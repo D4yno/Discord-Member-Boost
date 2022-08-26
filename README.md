@@ -14,4 +14,6 @@
   Method to bring them Online with Custom Game Status 24/7 🕢
   <li>
   Hosting Method (START YOUR OWN MEMBERBOOST HOSTING SERVICE) 🔌
+ <li>
+  Price $50.00 @Telegram --> @DynoQQ 💰
 </div>
