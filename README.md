@@ -11,7 +11,10 @@
 - Lifetime EXE: $20
 
 
-<iframe src="https://streamable.com/e/5e4k2f?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+https://user-images.githubusercontent.com/111402422/186941012-72be615d-0696-4290-a0a1-e071b0717436.mp4
+
+
 
 
 
