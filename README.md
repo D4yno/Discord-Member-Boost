@@ -1,19 +1,39 @@
 
-<br/>
-<div align="center">
-  
+
+# ⭐ A Discord Token Member Booster #1 in the Market ⭐
 
 
-#  ⭐ A Discord Token Member Booster #1 in the Market ⭐
-<iframe src="https://streamable.com/e/5e4k2f?autoplay=1" width="560" height="315" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-<iframe id="video" width="560" height="315" src="https://streamable.com/e/5e4k2f?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
-  <li>
-  with hCaptcha Solving AI Bypass 1/s per img (Locked Tokens) 🤖
-  <li>
-  Method to bring them Online with Custom Game Status 24/7 🕢
-  <li>
-  Hosting Method (START YOUR OWN MEMBERBOOST HOSTING SERVICE) 🔌
- <li>
-  Price $50.00 @Telegram --> @DynoQQ 💰
-</div>
+
+- with hCaptcha Solving AI Bypass 1/s per img (Locked Tokens) 🤖
+- Method to bring them Online with Custom Game Status 24/7 🕢
+- Source Code: $50
+- Lifetime EXE: $20
+
+
+<iframe src="https://streamable.com/e/5e4k2f?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
+# Modify your preferable config settings
+
+```json
+{
+    "email_domains": ["@gmail.com"], 
+    "solver_ai_ip" : "http://121.1.6.4:8080/solvecaptcha", 
+    "invite_code": "xdAxaESv",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36", 
+    "x_super_properties": "eyJvcyI6IldpbmRvd3MiLCJicm93c2VyIjoiQ2hyb21lIiwiZGV2aWNlIjoiIiwic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwiYnJvd3Nlcl91c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNC4wLjUxMTIuMTAyIFNhZmFyaS81MzcuMzYiLCJicm93c2VyX3ZlcnNpb24iOiIxMDQuMC41MTEyLjEwMiIsIm9zX3ZlcnNpb24iOiIxMCIsInJlZmVycmVyIjoiIiwicmVmZXJyaW5nX2RvbWFpbiI6IiIsInJlZmVycmVyX2N1cnJlbnQiOiIiLCJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCJjbGllbnRfYnVpbGRfbnVtYmVyIjoxNDM3NjMsImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+    "x_fingerprint": "1012691825355665489.o5_geYCr7hqw6T7UfEQPYCFPLqI" 
+}
+```
+
+
+
+You can contact me from:
+Telegram: https://t.me/DynoQQ
+Discord : Chris Crigler#3421
+# DISCLAIMER
+## This github repo is for EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS REPO.
