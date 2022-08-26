@@ -5,9 +5,7 @@
 
 
 #  ⭐ A Discord Token Member Booster #1 in the Market ⭐
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/5e4k2f" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe>
-
-
+<iframe src="https://streamable.com/e/5e4k2f?autoplay=1" width="560" height="315" frameborder="0" allowfullscreen allow="autoplay"></iframe>
   <li>
   with hCaptcha Solving AI Bypass 1/s per img (Locked Tokens) 🤖
   <li>
